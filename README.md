@@ -1,2 +1,2 @@
 # ToDo-List
-Created with CodeSandbox
+A simple ToDo List Frontend made from ReactJS.
